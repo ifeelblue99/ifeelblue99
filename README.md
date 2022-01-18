@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifeelblue99
-- 👀 I’m interested in mobile development, 3d moodelling, paragliding, books and football
+- 👀 I’m interested in mobile development, 3d modeling, paragliding, books and football
 - 🌱 I’m currently learning frontend dev.
 - 💞️ I’m looking to collaborate on mobile apps
 - 📫 barancakirbey13@gmail.com
