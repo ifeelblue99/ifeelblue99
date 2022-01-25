@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hii, I'm Baran  👋
 
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 ## I'm a Student, Developer and Creator.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on Js.
