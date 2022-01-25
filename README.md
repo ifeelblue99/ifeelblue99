@@ -41,6 +41,6 @@ You can click the Preview link to take a look at your changes.
 
 [twitter]: https://twitter.com/iFeelBlue13
 [linkedin]: www.linkedin.com/in/barancakirbey
-[portfolio]: https://ifeelblue99.github.io/profile/
+[portfolio]: https://github.com/ifeelblue99?tab=repositories
 
 
