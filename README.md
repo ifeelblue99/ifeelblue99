@@ -12,10 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Hii, I'm Baran  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a student, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on Js.
 - 🌱 I’m currently learning React Vue.js
