@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ### Talk with me:
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][twitter]
+[<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 <br />
 
 ### Languages and Tools:
@@ -47,5 +47,6 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: www.linkedin.com/in/barancakirbey
 [portfolio]: https://github.com/ifeelblue99?tab=repositories
 [netlify]: https://app.netlify.com/teams/ifeelblue99/overview
+[e-mail]: barancakirbey13@gmail.com
 
 
