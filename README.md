@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ### Talk with me:
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -34,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" />][netlify]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
+<br />
 <br />
 <br />
 
