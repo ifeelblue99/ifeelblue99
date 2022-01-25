@@ -31,17 +31,19 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/netlify.png" />][netlify]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
 <br />
 <br />
 
 <summary>:zap: Most Used Languages</summary>
-
+<br />
 <img align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
 
 [twitter]: https://twitter.com/iFeelBlue13
 [linkedin]: www.linkedin.com/in/barancakirbey
 [portfolio]: https://github.com/ifeelblue99?tab=repositories
+[netlify]: https://app.netlify.com/teams/ifeelblue99/overview
 
 
