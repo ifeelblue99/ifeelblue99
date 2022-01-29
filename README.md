@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Student, Developer and Creator.
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on Js.
-- 🌱 I’m currently learning React Vue.js
+- 🔭 I’m currently working on OOP.
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on original project
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I am a paragliding pilot
