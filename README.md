@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/iFeelBlue13
 [linkedin]: www.linkedin.com/in/barancakirbey
 [portfolio]: https://github.com/ifeelblue99?tab=repositories
-[netlify]: https://simple-portfolio-1.netlify.app/
+[netlify]: https://app.netlify.com/teams/ifeelblue99/overview
 [e-mail]: barancakirbey13@gmail.com
 [codepan]:https://codepen.io/iFeelBlue
 
