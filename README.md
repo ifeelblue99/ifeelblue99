@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### My works and useful stuffs on Codepan:
-[<img align="left" alt="baran cakirbey | Codepan" width="22px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
+##Codepan: [<img align="left" alt="baran cakirbey | Codepan" width="22px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
+<br/>
 
 ### Talk with me:
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
