@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## I'm a Student, Developer and Creator.
+## I'm a Student, Creator and Problem Solver.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on Algorithms.
 - 🌱 I’m currently learning React
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" width="450" height="320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761104b09f1c81985d46831c05d52875c6025d01c9a2&rid=giphy.gif&ct=gC">
 <br/>
-
 ### My works and useful stuffs on Codepan:
-[<img align="left" alt="baran cakirbey | Codepan" width="30px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
+[<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
+<br/>
 <br/>
 
 ### Talk with me:
@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="baran cakirbey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][e-mail]
 <br />
+<br/>
 
 ### Languages and Tools:
 
@@ -45,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<summary>:zap: Most Used Languages</summary>
+<summary>: Most Used Languages</summary>
 <br />
 <img align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
 
