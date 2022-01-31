@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 barancakirbey13@gmail.com
 
 <img align="right" width="450" height="320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761104b09f1c81985d46831c05d52875c6025d01c9a2&rid=giphy.gif&ct=gC">
-### My quick works on Codepan
-[<img align="left" alt="baran cakirbey | Codepan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepan.svg" />][codepan]
+### My works and useful stuffs on Codepan
+[<img align="left" alt="baran cakirbey | Codepan" width="22px" src="https://www.iconfinder.com/icons/1591833/codepen_icon" />][codepan]
 
 ### Talk with me:
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
