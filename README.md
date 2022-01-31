@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 ### My works and useful stuffs on Codepan:
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
 <br/>
-<br/>
 
 ### Talk with me:
 [<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -46,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<summary>: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary>
 <br />
 <img align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
 
