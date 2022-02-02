@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## I'm a Student, Creator and Problem Solver.
-- ✍ My website[website]
+- ✍ My [website]
 - 🔭 I’m currently working on Algorithms.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on original project
