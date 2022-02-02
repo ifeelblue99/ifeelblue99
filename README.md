@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hii, I'm Baran  👋
-
+<br/>
+#### Check y website [website]
 
 
 ## I'm a Student, Creator and Problem Solver.
@@ -55,6 +56,7 @@ You can click the Preview link to take a look at your changes.
 [portfolio]: https://github.com/ifeelblue99?tab=repositories
 [netlify]: https://app.netlify.com/teams/ifeelblue99/overview
 [e-mail]: barancakirbey13@gmail.com
-[codepan]:https://codepen.io/iFeelBlue
+[codepan]: https://codepen.io/iFeelBlue
+[website]: https://barancakirbey.netlify.app/
 
 
