@@ -21,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Some stuff on Codepan an CodeSandbox:
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
-<br/>
-<br/>
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />][codepan]
 <br/>
 
