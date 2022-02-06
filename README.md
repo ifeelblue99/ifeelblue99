@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ### Hii, I'm Baran  👋
 
 
-## I'm a Student, Creator and Problem Solver.
+## I'm a Problem Solver.
 - ✍ My [website]
 - 🔭 I’m currently working on Algorithms.
 - 🌱 I’m currently learning React
