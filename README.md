@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
 
 [twitter]: https://twitter.com/iFeelBlue13
-[linkedin]: https://www.linkedin.com/in/barancakirbey
+[linkedin]: www.linkedin.com/in/barancakirbey
 [portfolio]: https://github.com/ifeelblue99?tab=repositories
 [netlify]: https://app.netlify.com/teams/ifeelblue99/overview
 [e-mail]: barancakirbey13@gmail.com
