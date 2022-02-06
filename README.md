@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Some stuff on Codepan an CodeSandbox:
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
-[<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />][codepan]
+[<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />][codesandbox]
 <br/>
 
 ### Talk with me:
@@ -57,5 +57,6 @@ You can click the Preview link to take a look at your changes.
 [e-mail]: barancakirbey13@gmail.com
 [codepan]: https://codepen.io/iFeelBlue
 [website]: https://barancakirbey.netlify.app/
+[codesandbox]: https://codesandbox.io/u/ifeelblue99
 
 
