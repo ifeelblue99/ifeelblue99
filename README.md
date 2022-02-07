@@ -1,6 +1,4 @@
 <!---
-![Profile Views](https://komarev.com/ghpvc/?username=ifeelblue99)
-
 ifeelblue99/ifeelblue99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -24,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### Some compulsive stuff...
-[<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
-[<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />][codesandbox]
+![Codepen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen)
+![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat-square&logo=codesandbox)
 <br/>
 <br/>
 
@@ -38,10 +36,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=000)
+<!--![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)-->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Visual Studio](https://img.shields.io/badge/-visualstudio-blue?style=flat-square&logo=visualstudio)
+![Netlify](https://img.shields.io/badge/-netlify-black?style=flat-square&logo=netlify)
 <br />
 <br/>
 
@@ -52,6 +53,7 @@ You can click the Preview link to take a look at your changes.
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=ifeelblue99)
 
 [twitter]: https://twitter.com/iFeelBlue13
 [linkedin]: https://linkedin.com/in/barancakirbey
