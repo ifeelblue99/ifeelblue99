@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 <br />
 <p align="left">
-  <img width="45%" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99&theme=tokyonight&line_height=57&layout=compact" />
+  <img width="45%" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99&theme=tokyonight" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&theme=tokyonight" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
 </p>
