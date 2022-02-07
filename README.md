@@ -20,9 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ifeelblue99&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-
-<img padding="15px" align="right" width="450" height="320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761104b09f1c81985d46831c05d52875c6025d01c9a2&rid=giphy.gif&ct=gC">
-
+<img align="right" width="450" height="320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761104b09f1c81985d46831c05d52875c6025d01c9a2&rid=giphy.gif&ct=gC">
+<br/>
 
 ### Some compulsive stuff...
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
