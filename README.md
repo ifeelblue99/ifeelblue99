@@ -5,9 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hii, I'm Baran  👋 
 
-
 ## I'm a Problem Solver.
-- ✍ My [website]
+- ✍ My [![My Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://barancakirbey.netlify.app/)
 - 🔭 I’m currently working on Algorithms.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on original project
@@ -22,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### Some compulsive stuff...
-![Codepen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen)
-![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat-square&logo=codesandbox)
+[![Codepen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen)](https://codepen.io/iFeelBlue)
+[![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat-square&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
 <br/>
 <br/>
 
