@@ -16,22 +16,21 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
+<br/>
 
-<br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=ifeelblue99&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-<br/>
 
 
 <img align="right" width="450" height="320" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761104b09f1c81985d46831c05d52875c6025d01c9a2&rid=giphy.gif&ct=gC">
-<br/>
 
-### Some stuff on Codepan an CodeSandbox:
+
+### Some compulsive stuff...
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://img.icons8.com/windows/452/codepen.png" />][codepan]
 [<img align="left" alt="baran cakirbey | Codepan" width="38px" src="https://seeklogo.com/images/C/code-sandbox-logo-0746E97CA1-seeklogo.com.png" />][codesandbox]
 <br/>
-<br />
+<br/>
 
-### Talk with me:
+### Contact me:
 [![Twitter Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iFeelBlue13)](https://twitter.com/iFeelBlue13) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://linkedin.com/in/barancakirbey)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:barancakirbey13@gmail.com)
@@ -39,24 +38,15 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<br />
 <br/>
-<br/>
-<img align="left" alt="Git" width="26px" src="http://shijuvarghese.com/wp-content/uploads/2018/03/git-logo.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Netlify" width="26px" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-<br />
-
-
-## 📈 Stats
-<br />
+### 📈 Stats
 <p align="left">
   <img width="45%" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99&theme=tokyonight" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&theme=tokyonight" />
