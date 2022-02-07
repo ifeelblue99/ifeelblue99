@@ -1,10 +1,11 @@
-
 <!---
+![Profile Views](https://komarev.com/ghpvc/?username=ifeelblue99)
+
 ifeelblue99/ifeelblue99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hii, I'm Baran  👋
+### Hii, I'm Baran  👋 
 
 
 ## I'm a Problem Solver.
@@ -31,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### Talk with me:
-[<img align="left" alt="baran cakirbey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://linkedin.com/in/barancakirbey)
 [<img align="left" alt="baran cakirbey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 <br/>
