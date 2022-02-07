@@ -47,9 +47,13 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-<summary>:zap: Most Used Languages</summary>
+
+## 📈 Stats
 <br />
-<img align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
+<img width="48%"; align="left" alt="Baran's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
+
 
 [twitter]: https://twitter.com/iFeelBlue13
 [linkedin]: https://linkedin.com/in/barancakirbey
