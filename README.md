@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 [netlify]: https://app.netlify.com/teams/ifeelblue99/overview
 [e-mail]: barancakirbey13@gmail.com
 [codepan]: https://codepen.io/iFeelBlue
-[website]: https://barancakirbey.netlify.app/
+[Example Website]: https://fahrenheit-example-site.netlify.app/
 [codesandbox]: https://codesandbox.io/u/ifeelblue99
 
 
