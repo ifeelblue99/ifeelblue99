@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hii, I'm Baran  👋 
 
 ## I'm a Problem Solver.
-- ✍ Example [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://fahrenheit-example-site.netlify.app/)
+- ✍ Example [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://algorithmic-tile-game.netlify.app/)
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on blockchain project
