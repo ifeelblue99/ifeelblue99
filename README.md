@@ -3,9 +3,9 @@ ifeelblue99/ifeelblue99 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hii, I'm Baran  👋 
+## “Those who are not aware they are walking in darkness will never seek the light.” ~ Bruce Lee
 
-## 🏴‍☠️🏴‍☠️🏴‍☠️
+#### About me...
 - ✍ Examples [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://codepen.io/iFeelBlue)
 - 😶 Simple NFT Site [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://react-word-nft-cplly0df7-ifeelblue99.vercel.app)
 - 🔭 I’m currently working on React.
