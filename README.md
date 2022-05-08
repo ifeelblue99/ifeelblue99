@@ -3,7 +3,7 @@ ifeelblue99/ifeelblue99 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## “Those who are not aware they are walking in darkness <br/> will never seek the light.” ~ Bruce Lee
+## 🕯 “Those who are not aware they are walking in darkness <br/> will never seek the light.” ~ Bruce Lee
 
 #### About me...
 - ✍ Examples [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://codepen.io/iFeelBlue)
