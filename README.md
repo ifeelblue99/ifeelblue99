@@ -11,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on Rust
 - 🧟‍♂️ I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Dapps
-- 💬 Ask me about ... Anything
 - ⚡ Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
 <br/>
