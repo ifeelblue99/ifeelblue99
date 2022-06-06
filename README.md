@@ -36,12 +36,17 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-<!--![Javascript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)-->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Visual Studio](https://img.shields.io/badge/-visualstudio-blue?style=flat-square&logo=visualstudio)
-![Netlify](https://img.shields.io/badge/-netlify-black?style=flat-square&logo=netlify)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+
+#### (still learning)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 <br />
 <br/>
 
