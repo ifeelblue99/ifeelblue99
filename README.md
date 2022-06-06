@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 🃏 Simple NFT Site [![Website](https://img.shields.io/badge/-website-228B22?style=flat-square&logo=appveyor)](https://react-word-nft-cplly0df7-ifeelblue99.vercel.app)
 - 🔭 I’m currently working on Rust
 - 🧟‍♂️ I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on Dapps
+- 👯 I’m looking to collaborate on Dappsa and WebApps
 - ⚡ Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
 <br/>
