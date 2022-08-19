@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages and Tools:
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Typescript](https://img.shields.io/badge/-Typescript-F7DF1E?style=flat-square&logo=typescript&color=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -42,6 +43,8 @@ You can click the Preview link to take a look at your changes.
 
 #### (still learning)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Next.js](https://img.shields.io/badge/-Next.js-F7DF1E?style=flat-square&logo=next.js&color=black)
+![React Native](https://img.shields.io/badge/react_native-F7DF1E?style=flat-square&logo=next.js&color=black)
 <br />
 <br/>
 
