@@ -3,7 +3,7 @@
 
 ## Quick introduction
 
-- ⚒ I built this with Next.js + Typescript [💻 visite site](https://piazzadecoration.com/)
+- ⚒ I built this with Next.js + Typescript [💻 visit site](https://piazzadecoration.com/)
 - 🛠 I'm maintaining [this package](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse fro my side projects
