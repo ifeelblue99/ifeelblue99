@@ -2,7 +2,6 @@
 
 ## Quick introduction
 
-
 - ☕ I built this with Next.js + Typescript -> [💻 visite site](https://piazzadecoration.com/)
 - 👽 I'm maintaining [this package](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - 🔭 I’m currently working on Rust
@@ -11,12 +10,14 @@
 - ⚡ Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
 
+<br/>
 
 ## Checkout my work...
 
 [![Codepen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen)](https://codepen.io/iFeelBlue)
 [![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat-square&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
 
+<br/>
 
 ## Contact me
 
@@ -24,6 +25,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://linkedin.com/in/barancakirbey)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:barancakirbey13@gmail.com)
 
+<br/>
 
 ## Languages and tools
 
@@ -46,6 +48,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-F7DF1E?style=flat-square&logo=next.js&color=black)
 ![React Native](https://img.shields.io/badge/react_native-F7DF1E?style=flat-square&logo=next.js&color=black)
 
+<br/>
 
 ## Statistics
 <p align="left">
