@@ -46,7 +46,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust)
 ![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=next.js)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/react_native-gray?style=flat-square&logo=react&logoColor=white)
 
 <br/>
 
