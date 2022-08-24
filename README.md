@@ -3,8 +3,8 @@
 
 ## Quick introduction
 
-- ⚒ I built this with Next.js + Typescript [💻 visit site](https://piazzadecoration.com/)
-- 🛠 I'm maintaining [this package](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
+- ⚒ I built this with Next.js + Typescript [![Site](https://img.shields.io/badge/%F0%9F%92%BB-Visit%20site-brightgreen)](https://piazzadecoration.com/)
+- 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse fro my side projects
 - 🖖 I’m looking to collaborate on Dappsa and WebApps
@@ -15,8 +15,8 @@
 
 ## Check some of my work...
 
-[![Codepen](https://img.shields.io/badge/-codepen-black?style=flat&logo=codepen)](https://codepen.io/iFeelBlue)
-[![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
+[![Codepen](https://img.shields.io/badge/-codepen-lightgray?style=flat&logo=codepen&logoColor=black)](https://codepen.io/iFeelBlue)
+[![Codesandbox](https://img.shields.io/badge/-codesandbox-lightgray?style=flat&logo=codesandbox&logoColor=black)]( https://codesandbox.io/u/ifeelblue99)
 
 <br/>
 
