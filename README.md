@@ -3,7 +3,7 @@
 
 ## Quick introduction
 
-- ⚒ I built this with Next.js + Typescript [![Site](https://img.shields.io/badge/%F0%9F%92%BB-Visit%20site-brightgreen)](https://piazzadecoration.com/)
+- ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://piazzadecoration.com/) with Next.js & Typescript
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse fro my side projects
