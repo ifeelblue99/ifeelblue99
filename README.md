@@ -3,13 +3,13 @@
 ## Quick introduction
 
 
-☕ I built this with Next.js + Typescript -> [💻 visite site](https://piazzadecoration.com/)
-👽 I'm maintaining [this package](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
-🔭 I’m currently working on Rust
-🧟‍♂️ I’m currently learning Fireabse fro my side projects
-👯 I’m looking to collaborate on Dappsa and WebApps
-⚡ Fun fact: I am a paragliding pilot
-📫 barancakirbey13@gmail.com
+- ☕ I built this with Next.js + Typescript -> [💻 visite site](https://piazzadecoration.com/)
+- 👽 I'm maintaining [this package](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
+- 🔭 I’m currently working on Rust
+- 🧟‍♂️ I’m currently learning Fireabse fro my side projects
+- 👯 I’m looking to collaborate on Dappsa and WebApps
+- ⚡ Fun fact: I am a paragliding pilot
+- 📫 barancakirbey13@gmail.com
 
 
 ## Checkout my work...
@@ -48,9 +48,9 @@
 
 
 ## Statistics
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
+<p align="left">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&theme=tokyonight" />
+  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ifeelblue99)
