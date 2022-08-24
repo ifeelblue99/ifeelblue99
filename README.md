@@ -30,14 +30,20 @@
 
 ## Languages and tools
 
-![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Javascript-gold?style=flat&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Solidity](https://img.shields.io/badge/-Solidity-teal?style=flat&logo=solidity)
+
+<br />
+
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-visualstudio-blue?style=flat&logo=visualstudio)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+
+<br />
+
+![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
@@ -45,7 +51,6 @@
 #### (still learning)
 
 ![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust)
-![Next.js](https://img.shields.io/badge/-Next.js-gray?style=flat-square&logo=next.js)
 ![React Native](https://img.shields.io/badge/React_Native-gray?style=flat-square&logo=react&logoColor=white)
 
 <br/>
