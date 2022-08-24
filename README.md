@@ -1,4 +1,5 @@
 # Hii, welcome
+<br/>
 
 ## Quick introduction
 
@@ -12,7 +13,7 @@
 
 <br/>
 
-## Checkout my work...
+## Check my work...
 
 [![Codepen](https://img.shields.io/badge/-codepen-black?style=flat&logo=codepen)](https://codepen.io/iFeelBlue)
 [![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
