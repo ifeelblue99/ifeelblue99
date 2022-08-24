@@ -14,8 +14,8 @@
 
 ## Checkout my work...
 
-[![Codepen](https://img.shields.io/badge/-codepen-black?style=flat-square&logo=codepen)](https://codepen.io/iFeelBlue)
-[![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat-square&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
+[![Codepen](https://img.shields.io/badge/-codepen-black?style=flat&logo=codepen)](https://codepen.io/iFeelBlue)
+[![Codesandbox](https://img.shields.io/badge/-codesandbox-black?style=flat&logo=codesandbox)]( https://codesandbox.io/u/ifeelblue99)
 
 <br/>
 
@@ -29,17 +29,17 @@
 
 ## Languages and tools
 
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Typescript](https://img.shields.io/badge/-Typescript-F7DF1E?style=flat-square&logo=typescript&color=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Visual Studio](https://img.shields.io/badge/-visualstudio-blue?style=flat-square&logo=visualstudio)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=000)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&color=black)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![Solidity](https://img.shields.io/badge/-Solidity-lightgray?style=flat&logo=solidity)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Visual Studio](https://img.shields.io/badge/-visualstudio-blue?style=flat&logo=visualstudio)
+![Node.js](https://img.shields.io/badge/-Node.js-darkgray?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb&font=bold)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 
 
 #### (still learning)
