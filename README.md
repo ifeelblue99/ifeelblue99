@@ -57,7 +57,6 @@
 
 ## Statistics
 <p align="left">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeelblue99&theme=tokyonight" />
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ifeelblue99&theme=tokyonight" />
   <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeelblue99&theme=tokyonight" />
 </p>
