@@ -6,7 +6,8 @@
 - ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://piazzadecoration.com/) with Next.js & Typescript
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - These are some apps that I made with React.js, Next.js and Typescript
-- ===> .1. [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
+- ===> .1. [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
+- ===> .2. [![S2](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse fro my side projects
 - 🖖 I’m looking to collaborate on Dappsa and WebApps
