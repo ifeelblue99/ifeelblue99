@@ -8,6 +8,7 @@
 - These are some apps that I made with React.js, Next.js and Typescript
 - ....1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
 - ....2... [![S2](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
+- ....3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
 -
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse fro my side projects
