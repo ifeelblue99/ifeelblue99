@@ -11,8 +11,8 @@
 - ....3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
 -
 - 🔭 I’m currently working on Rust
-- 🏗 I’m currently learning Fireabse fro my side projects
-- 🖖 I’m looking to collaborate on Dappsa and WebApps
+- 🏗 I’m currently learning Fireabse for my side projects
+- 🖖 I’m looking to collaborate on Dapps and WebApps
 - 🪂 Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
 
