@@ -5,12 +5,13 @@
 
 - ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://piazzadecoration.com/) with Next.js & Typescript
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
-- These are some apps that I made with React.js, Next.js and Typescript
+- These are some apps that I made with React Native, Next.js and Typescript
 - .....1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/metamask-wallet-helper/)
 - .....2... [![S2](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
-- .....3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
+- .....3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game%20Web-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
+- .....4... [![S4](https://img.shields.io/badge/%F0%9F%92%BB-AlgoMaze%20Android%20Game-blue)](google.com) [see repo](https://github.com/ifeelblue99/algo-maze-android-maze-game)
 -
-- 🛰 I also do amateur 3D models with blender, check [![cgtrader](https://img.shields.io/badge/%F0%9F%A7%BF-CGTrader-blue)](https://www.cgtrader.com/ifeelblue)
+- 🛰 I also do amateur 3D models with blender, check [![cgtrader](https://img.shields.io/badge/%F0%9F%A7%BF-CGTrader-orange)](https://www.cgtrader.com/ifeelblue)
 - 🔭 I’m currently working on Rust
 - 🏗 I’m currently learning Fireabse for my side projects
 - 🖖 I’m looking to collaborate on Dapps and WebApps
