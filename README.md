@@ -9,7 +9,7 @@
 - .....1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/metamask-wallet-helper/)
 - .....2... [![S2](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
 - .....3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game%20Web-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
-- .....4... [![S4](https://img.shields.io/badge/%F0%9F%92%BB-AlgoMaze%20Android%20Game-blue)](google.com) [see repo](https://github.com/ifeelblue99/algo-maze-android-maze-game)
+- .....4... [![S4](https://img.shields.io/badge/%F0%9F%92%BB-AlgoMaze%20Android%20Game-blue)](https://play.google.com/store/apps/details?id=com.ifeelblue.AlgoMaze) [see repo](https://github.com/ifeelblue99/algo-maze-android-maze-game)
 -
 - 🛰 I also do amateur 3D models with blender, check [![cgtrader](https://img.shields.io/badge/%F0%9F%A7%BF-CGTrader-orange)](https://www.cgtrader.com/ifeelblue)
 - 🔭 I’m currently working on Rust
