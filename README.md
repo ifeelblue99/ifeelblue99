@@ -4,7 +4,7 @@
 ## Quick introduction
 
 - ⚒ I made [This Dapp](https://cell-art-v1.vercel.app/)
-- ⚒ I also made [This Dapp](https://lottery23-v2.vercel.app/) recently
+- ⚒ I also made [This Dapp](https://bluearttoken.com/fw/) recently
 - ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://piazzadecoration.com/) with Next.js & Typescript
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - These are some apps that I made with React Native, Next.js and Typescript
