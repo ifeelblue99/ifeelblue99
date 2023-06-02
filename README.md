@@ -53,14 +53,11 @@
 <br />
 
 ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 
 #### (still learning)
 
-![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust)
-![React Native](https://img.shields.io/badge/React_Native-gray?style=flat-square&logo=react&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
