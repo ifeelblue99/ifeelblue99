@@ -15,15 +15,14 @@
 - .....4... [![S4](https://img.shields.io/badge/%F0%9F%92%BB-AlgoMaze%20Android%20Game-blue)](https://play.google.com/store/apps/details?id=com.ifeelblue.AlgoMaze) [see repo](https://github.com/ifeelblue99/algo-maze-android-maze-game)
 -
 - 🛰 I also do amateur 3D models with blender, check [![cgtrader](https://img.shields.io/badge/%F0%9F%A7%BF-CGTrader-orange)](https://www.cgtrader.com/ifeelblue)
-- 🔭 I’m currently working on Rust
-- 🏗 I’m currently learning Fireabse for my side projects
+- 🔭 I’m currently working on Golang
 - 🖖 I’m looking to collaborate on Dapps and WebApps
 - 🪂 Fun fact: I am a paragliding pilot
 - 📫 barancakirbey13@gmail.com
 
 <br/>
 
-## Check some of my work...
+## Check some of my work as a frontend...
 
 [![Codepen](https://img.shields.io/badge/-codepen-lightgray?style=flat&logo=codepen&logoColor=black)](https://codepen.io/iFeelBlue)
 [![Codesandbox](https://img.shields.io/badge/-codesandbox-lightgray?style=flat&logo=codesandbox&logoColor=black)]( https://codesandbox.io/u/ifeelblue99)
@@ -42,6 +41,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-gold?style=flat&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-orangered?style=flat&logo=firebase&logoColor=gold)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Solidity](https://img.shields.io/badge/-Solidity-teal?style=flat&logo=solidity)
@@ -50,6 +50,7 @@
 
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-ReactNative-gray?style=flat&logo=react&logoColor=white)
 
 <br />
 
