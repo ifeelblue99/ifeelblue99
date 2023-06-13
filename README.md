@@ -3,7 +3,7 @@
 
 ## Quick introduction
 
-- ⚒ I made [This Dapp](https://cell-art-v1.vercel.app/)
+- ⚒ Check out my work [CellArt Dapp](https://cell-art-v1.vercel.app/) - [DexTips](https://dextips.netlify.app/)
 - ⚒ I also made [This Dapp](https://bluearttoken.com/fw/) recently
 - ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://none/) with Next.js & Typescript
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
