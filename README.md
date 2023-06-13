@@ -3,7 +3,7 @@
 
 ## Quick introduction
 
-- ⚒ Check out my work [CellArt Dapp](https://cell-art-v1.vercel.app/) - [DexTips](https://dextips.netlify.app/)
+- ⚒ Check out my recent work [DexTips](https://dextips.netlify.app/) - [CellArt](https://cell-art-v1.vercel.app/)
 - ⚒ I work on this project as a full-stack dev. [Upcoming mobile app](https://hazume.vercel.app/auth)
 - ⚒ I also made [This Dapp](https://bluearttoken.com/fw/) recently
 - ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://cakirbey.net/)
