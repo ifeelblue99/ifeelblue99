@@ -5,7 +5,7 @@
 
 - ⚒ Check out my work [CellArt Dapp](https://cell-art-v1.vercel.app/) - [DexTips](https://dextips.netlify.app/)
 - ⚒ I also made [This Dapp](https://bluearttoken.com/fw/) recently
-- ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://none/) with Next.js & Typescript
+- ⚒ I built [![Site](https://img.shields.io/badge/%F0%9F%92%BB-This%20site-brightgreen)](https://cakirbey.net/)
 - 🛠 I'm maintaining [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit) on npm
 - These are some apps that I made with React Native, Next.js and Typescript
 - .....1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/metamask-wallet-helper/)
