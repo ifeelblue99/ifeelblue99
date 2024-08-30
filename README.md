@@ -7,10 +7,10 @@
 
 ## Published
 
-- ⚒ [DexTips](https://dextips.netlify.app/) - [CellArt](https://cell-art-v1.vercel.app/)
-- ⚒ Upcomming. [Upcoming mobile app](https://hazume.vercel.app/auth)
-- ⚒ [This Dapp](https://bluearttoken.com/fw/) recently
-- 🛠 My NPM Package for Fun [![This package](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit)
+- ⚒ [DexTips](https://dextips.netlify.app/)
+- ⚒ [CellArt](https://cell-art-v1.vercel.app/)
+- ⚒ [CryptoMoney](https://bluearttoken.com/fw/)
+- ⚒ My NPM Package for Fun [![Colors](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit)
 
 ## Made with React Native, Next.js and Typescript
 - ...1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/metamask-wallet-helper/)
