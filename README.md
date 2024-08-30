@@ -5,14 +5,17 @@
 
 <br/>
 
-## Published
-
+### Published
+---
 - ⚒ [DexTips](https://dextips.netlify.app/)
 - ⚒ [CellArt](https://cell-art-v1.vercel.app/)
 - ⚒ [CryptoMoney](https://bluearttoken.com/fw/)
 - ⚒ My NPM Package for Fun [![Colors](https://img.shields.io/badge/%F0%9F%93%A6-This%20package-red)](https://www.npmjs.com/package/@ifeelblue/color-kit)
 
-## Made with React Native, Next.js and Typescript
+<br/>
+
+### Made with React Native, Next.js and Typescript
+---
 - ...1... [![S1](https://img.shields.io/badge/%F0%9F%92%BB-Metamask%20Wallet%20Helper-blue)](https://metamask-wallet-helper.vercel.app/) [see repo](https://github.com/ifeelblue99/metamask-wallet-helper/)
 - ...2... [![S2](https://img.shields.io/badge/%F0%9F%92%BB-Crypto%20Wallet-blue)](https://crypto-wallet-creator.vercel.app/) [see repo](https://github.com/ifeelblue99/crypto-wallet-creator/)
 - ...3... [![S3](https://img.shields.io/badge/%F0%9F%92%BB-Tile%20Game%20Web-blue)](https://algorithmic-tile-game.netlify.app/) [see repo](https://github.com/ifeelblue99/algorithmic-tile-game)
@@ -24,22 +27,22 @@
 
 <br/>
 
-## Check more of my work, me as a frontend developer
-
+### Check more of my work, me as a frontend developer
+---
 [![Codepen](https://img.shields.io/badge/-codepen-lightgray?style=flat&logo=codepen&logoColor=black)](https://codepen.io/iFeelBlue)
 
 <br/>
 
-## Contact
-
+### Contact
+---
 [![Twitter Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iFeelBlue13)](https://twitter.com/iFeelBlue13) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://linkedin.com/in/barancakirbey)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:barancakirbey13@gmail.com)
 
 <br/>
 
-## Languages and tools
-
+### Languages and tools
+---
 ![JavaScript](https://img.shields.io/badge/-Javascript-gold?style=flat&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase&logoColor=green)
