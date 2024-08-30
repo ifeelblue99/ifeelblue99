@@ -1,7 +1,7 @@
 # Hii, welcome🖖
 <br/>
 
-**The *Hazume* App is on its way to going live** [![Hazume](https://img.shields.io/badge/See-Hazume-orange)](https://www.instagram.com/hazumeapp/)
+**The *Hazume* App is going live soon!** [![Hazume](https://img.shields.io/badge/See-Hazume-orange)](https://www.instagram.com/hazumeapp/)
 
 <br/>
 
